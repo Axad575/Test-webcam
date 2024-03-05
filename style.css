@@ -1,0 +1,12 @@
+div {
+    width: 50vh;
+    height: 700px auto;
+    border: 2px solid black;
+    position: relative;
+}
+
+video {
+    width: 50vh;
+    height: 700px auto;
+    object-fit: cover;
+}
